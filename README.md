@@ -8,7 +8,7 @@ I am a technical builder and aspiring founder working at the intersection of Qua
 - 🔭 I’m currently working on quantum computing, AI, cybersecurity, and critical Infrastructure. 
 - 👯 I’m looking to collaborate on ambitious projects at the intersection of quantum computing, AI, and real-world systems.
 - 🖥️  See my portfolio at [juliustellar.github.io](http://juliustellar.github.io)
-- 💬  See my blog at [juliustellar.github.io/blog](http://juliustellar.github.io/blog)
+- 💬  See my blog at [juliustellar.github.io/julius-blog](https://juliustellar.github.io/julius-blog/)
 - 📫 How to reach me: juliustellar@gmail.com 
 - 😄 Pronouns: he/him 
 - ⚡ Fun fact: I enjoy reading and spending long hours building things. 
